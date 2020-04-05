@@ -1,0 +1,11 @@
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.csprojAssemblyReference.cache
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.Login.resources
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.Properties.Resources.resources
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.Session.resources
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\bin\Debug\SistemaBanco.exe.config
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\bin\Debug\SistemaBanco.exe
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\bin\Debug\SistemaBanco.pdb
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.exe
+C:\Users\Anderson\source\repos\SistemaBanco\SistemaBanco\obj\Debug\SistemaBanco.pdb
